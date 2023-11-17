@@ -1,8 +1,6 @@
 ### About
 
-As a Salesforce Developer at Maxsys Technology, I design, develop, and implement customized solutions on the Salesforce platform for various clients across industries. I have 2 years of hands-on experience in translating business requirements into scalable and efficient technical solutions, with a strong focus on delivering value and satisfaction to clients.
-
-I collaborate with cross-functional teams and optimize Salesforce environments for enhanced productivity and user experience. I have successfully completed multiple projects involving data modeling and management, workflow automation, integration, and testing. I hold a Bachelor of Engineering degree in Mechanical Engineering from Visvesvaraya Technological University and I am passionate about learning new technologies and best practices in the Salesforce domain.
+Salesforce Developer with over 2 years of hands-on expertise in designing, developing, and implementing customized solutions on the Salesforce platform. Adept at translating business requirements into scalable and efficient technical solutions, with a strong focus on delivering value to clients. Proven track record of collaborating with cross functional teams and optimizing Salesforce environments for enhanced productivity and user experience.
 <!--
 **aimran4801/aimran4801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
